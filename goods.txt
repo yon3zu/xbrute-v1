@@ -1,0 +1,2 @@
+WordPress : http://xxx.com//wp-login.php#admin@admin
+WordPress : https://xxx.com//wp-login.php#admin@pass
